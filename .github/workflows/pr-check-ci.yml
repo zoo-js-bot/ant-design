@@ -18,4 +18,5 @@ jobs:
           merge-method: 'merge'
           merge-title: 'Auto merge (#${number})'
           failure-review: 'REQUEST_CHANGES'
+          failure-review-body: 'PTAL'
           failure-close: true
