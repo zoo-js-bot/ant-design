@@ -12,6 +12,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           filter-label: 'check-ci'
+          filter-head-ref: 'x1, x2'
           success-review: true
           success-review-body: 'LGTM'
           success-merge: true
