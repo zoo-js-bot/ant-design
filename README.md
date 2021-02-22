@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">Ant2 Design</h1>
+<h1 align="center">Ant Design</h1>
 
 <div align="center">
 
