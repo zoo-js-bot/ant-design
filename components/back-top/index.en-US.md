@@ -12,7 +12,7 @@ cover: https://gw.alipayobjects.com/zos/alicdn/tJZ5jbTwX/BackTop.svg
 - When the page content is very long.
 - When you need to go back to the top very frequently in order to view the contents.
 
-## API
+## APIt
 
 > The distance to the bottom is set to `50px` by default, which is overridable.
 >
