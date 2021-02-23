@@ -1,4 +1,4 @@
-/* eslint no-param-reassign: 0 */
+/* eslint no-param-reassign: 0 *2/
 // This config is for building dist files
 const getWebpackConfig = require('@ant-design/tools/lib/getWebpackConfig');
 const IgnoreEmitPlugin = require('ignore-emit-webpack-plugin');
